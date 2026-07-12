@@ -1,4 +1,4 @@
-# Hi, I'm Jader Brito 👋
+# Hi, I'm Jader Brito 
 
 ## Senior Digital Marketing Project Manager | CRM Automation | GoHighLevel Expert
 
@@ -12,12 +12,12 @@ One lesson has remained consistent throughout my career: operational challenges 
 
 ## What I Do
 
-* 📌 Manage digital marketing projects from planning through delivery
-* 🚀 Improve marketing operations and team workflows
-* ⚙️ Build CRM processes and automation using HubSpot and GoHighLevel
-* 🤝 Coordinate cross-functional teams including marketing, design, content, development, and client-facing teams
-* 📊 Create reporting systems, dashboards, documentation, and SOPs
-* 🤖 Leverage AI tools to improve productivity and operational efficiency
+*  Manage digital marketing projects from planning through delivery
+*  Improve marketing operations and team workflows
+*  Build CRM processes and automation using HubSpot and GoHighLevel
+*  Coordinate cross-functional teams including marketing, design, content, development, and client-facing teams
+*  Create reporting systems, dashboards, documentation, and SOPs
+*  Leverage AI tools to improve productivity and operational efficiency
 
 ---
 
@@ -61,12 +61,12 @@ I'm building this GitHub portfolio to showcase real-world examples of the system
 
 Upcoming repositories include:
 
-* 📁 Marketing Project Management Case Studies
-* ⚙️ CRM & GoHighLevel Automation Workflows
-* 📋 Standard Operating Procedures (SOPs)
-* 📊 Marketing Operations Dashboards & Reporting Templates
-* 🤖 AI Productivity & Workflow Documentation
-* 🗂️ Process Maps and Operational Frameworks
+*  Marketing Project Management Case Studies
+*  CRM & GoHighLevel Automation Workflows
+*  Standard Operating Procedures (SOPs)
+*  Marketing Operations Dashboards & Reporting Templates
+*  AI Productivity & Workflow Documentation
+*  Process Maps and Operational Frameworks
 
 ---
 
@@ -80,8 +80,8 @@ Whether coordinating complex marketing initiatives, optimizing CRM workflows, or
 
 ## Let's Connect
 
-* 💼 LinkedIn: https://www.linkedin.com/in/jader-brito-766a15127/
-* 🌐 Upwork: https://www.upwork.com/freelancers/~013c72790ae655ef32
-* 📧 Email: jaderbrito95@gmail.com
+*  LinkedIn: https://www.linkedin.com/in/jader-brito-766a15127/
+*  Upwork: https://www.upwork.com/freelancers/~013c72790ae655ef32
+*  Email: jaderbrito95@gmail.com
 
 Thanks for visiting my GitHub! I'm continuously expanding this portfolio with project management resources, automation examples, and operational frameworks that demonstrate how structured systems can drive better business outcomes.
