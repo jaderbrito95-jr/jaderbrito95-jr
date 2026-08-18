@@ -1,6 +1,6 @@
 # Hi, I'm Jader Brito 
 
-## Senior Digital Marketing Project Manager | CRM Automation | GoHighLevel Expert
+## Marketing Account Coordinator | Senior Digital Marketing Project Manager | CRM Automation Specialist | GoHighLevel Expert
 
 I help businesses manage digital marketing projects, optimize marketing operations, and build scalable systems through CRM management and automation.
 
